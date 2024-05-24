@@ -1,0 +1,15 @@
+{
+  "originHash" : "177df40c47feeb890291989f6c8c288aeeb7dfafe7b02ae3c86ee9b970d4fe7c",
+  "pins" : [
+    {
+      "identity" : "swift-combine-camera",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/silkodenis/swift-combine-camera.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b4baf126eaad3fb8e4d9e72aa60e73791af68daf"
+      }
+    }
+  ],
+  "version" : 3
+}

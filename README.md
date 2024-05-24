@@ -1,5 +1,12 @@
 # CombineCamera Demo App
 
+<p align="center">
+  <img src="https://github.com/silkodenis/combine-camera-demo-app/blob/readme_assets/screenshots/screenshot_1.jpeg?raw=true" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/silkodenis/combine-camera-demo-app/blob/readme_assets/screenshots/screenshot_2.jpeg?raw=true" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/silkodenis/combine-camera-demo-app/blob/readme_assets/screenshots/screenshot_3.jpeg?raw=true" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/silkodenis/combine-camera-demo-app/blob/readme_assets/screenshots/screenshot_7.jpeg?raw=true" alt="Screenshot 4" width="200"/>
+</p>
+
 An iOS application that demonstrates the usage of the **[CombineCamera](https://github.com/silkodenis/swift-combine-camera)** Swift package for video capturing in an application with a UDF (Unidirectional Data Flow) architecture using Combine.
 
 ## Description

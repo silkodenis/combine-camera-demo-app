@@ -7,7 +7,7 @@
   <img src="https://github.com/silkodenis/combine-camera-demo-app/blob/readme_assets/screenshots/screenshot_7.jpeg?raw=true" alt="Screenshot 4" width="200"/>
 </p>
 
-An iOS application that demonstrates the usage of the **[CombineCamera](https://github.com/silkodenis/swift-combine-camera)** Swift package for video capturing in an application with a UDF (Unidirectional Data Flow) architecture using Combine.
+An iOS application that demonstrates the usage of the **[CombineCamera](https://github.com/silkodenis/swift-combine-camera)** Swift package in an application with a UDF (Unidirectional Data Flow) architecture based on Combine framework.
 
 ## Description
 

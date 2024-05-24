@@ -1,6 +1,6 @@
 //
 //  CaptureVideoPreviewLayer.swift
-//  SuperVisionCamera
+//  CameraDemo
 //
 //  Created by Denis Silko on 25.09.2022.
 //

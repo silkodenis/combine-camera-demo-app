@@ -1,6 +1,6 @@
 //
 //  CaptureViewModel.swift
-//  VideoCamera
+//  CameraDemo
 //
 //  Created by Denis Silko on 10.05.2024.
 //

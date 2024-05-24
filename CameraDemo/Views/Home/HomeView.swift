@@ -1,6 +1,6 @@
 //
 //  HomeView.swift
-//  VideoCamera
+//  CameraDemo
 //
 //  Created by Denis Silko on 16.05.2024.
 //
